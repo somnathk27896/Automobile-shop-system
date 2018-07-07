@@ -1,0 +1,91 @@
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\bin\Debug\SE.exe
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\bin\Debug\SE.pdb
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.LOGIN.resources
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.Properties.Resources.resources
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.csproj.GenerateResource.Cache
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.exe
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.pdb
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.MDI.resources
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.ChangePassword.resources
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.csprojResolveAssemblyReference.cache
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.Employee.resources
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.Customer.resources
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.Vehical_master.resources
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.sale_order.resources
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\bin\Debug\SE.exe.config
+C:\Users\soms\Documents\Visual Studio 2010\Projects\SE\SE\SE\obj\x86\Debug\SE.payment.resources
+C:\proj\SE\SE\SE\bin\Debug\SE.exe.config
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.exe
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.pdb
+C:\proj\SE\SE\SE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.ChangePassword.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.Customer.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.Employee.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.LOGIN.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.MDI.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.payment.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.Properties.Resources.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.sale_order.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.Vehical_master.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\proj\SE\SE\SE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\proj\SE\SE\SE\bin\Debug\SE.mdf
+C:\proj\SE\SE\SE\bin\Debug\SE_log.LDF
+C:\proj\SE\SE\SE\bin\Debug\SE.exe
+C:\proj\SE\SE\SE\bin\Debug\SE.pdb
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.demo.resources
+C:\proj\SE\SE\SE\obj\x86\Debug\SE.recipte.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\bin\Debug\SE.exe.config
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.exe
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.pdb
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\bin\Debug\SE.mdf
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\bin\Debug\SE_log.LDF
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\bin\Debug\SE.exe
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\bin\Debug\SE.pdb
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.csprojResolveAssemblyReference.cache
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.ChangePassword.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.Customer.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.demo.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.Employee.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.LOGIN.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.MDI.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.payment.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.Properties.Resources.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.recipte.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.sale_order.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.Vehical_master.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.csproj.GenerateResource.Cache
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.EmpRpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\RdlCompile.cache
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\RdlCompile.compiled
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.CustRpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.VRpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.SORpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\obj\x86\Debug\SE.PayRpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\bin\Debug\SE.exe.config
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.exe
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.pdb
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\bin\Debug\SE.mdf
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\bin\Debug\SE_log.LDF
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\bin\Debug\SE.exe
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\bin\Debug\SE.pdb
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.csprojResolveAssemblyReference.cache
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.ChangePassword.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.Customer.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.CustRpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.demo.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.Employee.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.EmpRpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.LOGIN.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.MDI.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.payment.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.PayRpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.Properties.Resources.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.recipte.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.sale_order.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.SORpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.Vehical_master.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.VRpt.resources
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\SE.csproj.GenerateResource.Cache
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\RdlCompile.cache
+C:\Users\soms\Documents\Visual Studio 2010\SE\SE\SE\SE\obj\x86\Debug\RdlCompile.compiled
